@@ -1,2 +1,3 @@
-# COVID-Vaccine-Hesitancy-Visualization
-Visualizes COVID-19 vaccine hesitancy by county for each state, using R and ggplot2. 
+# COVID Vaccine Hesitancy Visualization
+This project visualizes COVID-19 vaccine hesitancy by county for each state in the USA, using R and ggplot2. 
+Data is public domain, from the CDC: https://data.cdc.gov/Vaccinations/Vaccine-Hesitancy-for-COVID-19-County-and-local-es/q9mh-h2tw/about_data. 
